@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Cooper WIlks",
+        "email": "cooper@mhcmga.com",
+        "priority": "Low",
+        "issue": "blablabl",
+        "status": "Open"
+    },
+    {
+        "name": "Jeremy Richardson",
+        "email": "Jrich@gmail.com",
+        "priority": "Low",
+        "issue": "Phones don't work at all.",
+        "status": "Open"
+    },
+    {
+        "name": "ef",
+        "email": "asdf",
+        "priority": "Low",
+        "issue": "sdf",
+        "status": "Open"
+    }
+]
