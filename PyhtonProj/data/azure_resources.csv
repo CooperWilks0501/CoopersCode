@@ -1,0 +1,101 @@
+resource_id,name,type,location,created_date,owner_department,is_public
+0,appservice-region-146,AppService,Europe,2025-04-11 03:36:09,Marketing,False
+1,functions-particular-583,Functions,Europe,2024-06-24 14:08:44,Engineering,False
+2,storage-everyone-883,Storage,West US,2025-03-05 15:44:07,Sales,True
+3,storage-officer-499,Storage,Europe,2025-05-26 19:12:42,Engineering,False
+4,functions-of-137,Functions,Europe,2025-03-01 23:03:21,IT,False
+5,vm-early-913,VM,Europe,2024-08-24 14:58:19,Engineering,True
+6,appservice-state-697,AppService,East US,2024-09-10 13:32:13,Engineering,False
+7,appservice-wonder-227,AppService,West US,2024-08-29 14:18:12,IT,False
+8,database-wonder-917,Database,Asia,2024-10-08 12:41:44,IT,True
+9,database-rich-943,Database,West US,2024-09-24 20:58:27,Finance,True
+10,appservice-foreign-821,AppService,East US,2024-09-14 17:36:05,Finance,True
+11,vm-charge-435,VM,East US,2025-05-13 10:45:42,Sales,True
+12,vm-like-137,VM,East US,2025-03-17 19:28:01,Finance,False
+13,database-meeting-438,Database,Asia,2025-01-09 15:07:45,Sales,False
+14,appservice-establish-158,AppService,West US,2025-05-12 04:20:56,Engineering,True
+15,database-environmental-36,Database,West US,2025-03-18 05:56:16,Sales,False
+16,functions-stock-550,Functions,West US,2024-10-10 22:59:08,Finance,False
+17,appservice-forget-876,AppService,West US,2025-05-04 18:29:28,Sales,False
+18,functions-money-576,Functions,East US,2024-07-24 08:27:37,IT,True
+19,storage-yeah-751,Storage,Europe,2024-11-20 16:40:09,Sales,False
+20,storage-they-816,Storage,West US,2024-09-25 21:32:29,Marketing,False
+21,storage-design-630,Storage,West US,2024-08-01 23:18:23,Sales,False
+22,vm-face-176,VM,East US,2024-08-01 12:30:16,Finance,False
+23,functions-PM-360,Functions,Asia,2024-09-29 01:10:06,Sales,True
+24,vm-charge-568,VM,West US,2024-09-05 08:29:38,Marketing,False
+25,storage-feeling-738,Storage,Europe,2025-04-14 13:48:49,IT,False
+26,functions-finally-191,Functions,West US,2024-10-29 08:50:45,IT,False
+27,storage-possible-820,Storage,Europe,2024-07-03 12:52:07,Finance,False
+28,functions-sit-867,Functions,Europe,2025-04-02 19:31:26,IT,False
+29,vm-person-678,VM,West US,2025-01-18 15:39:14,Engineering,False
+30,storage-hear-588,Storage,East US,2025-04-20 10:00:42,Finance,True
+31,vm-star-138,VM,East US,2024-09-06 17:03:31,IT,False
+32,database-end-975,Database,Asia,2025-01-21 09:16:49,Sales,False
+33,database-play-238,Database,Asia,2024-07-27 16:52:55,IT,False
+34,appservice-yet-402,AppService,East US,2024-07-06 14:50:40,Sales,False
+35,functions-project-884,Functions,Asia,2024-07-07 10:10:39,Sales,True
+36,storage-large-638,Storage,East US,2024-12-01 06:12:12,Finance,False
+37,functions-two-378,Functions,Asia,2025-04-11 10:44:59,Marketing,True
+38,storage-cold-627,Storage,Europe,2024-07-18 17:58:25,Marketing,False
+39,functions-center-548,Functions,Europe,2025-02-23 19:37:31,Finance,False
+40,functions-month-481,Functions,West US,2024-08-07 16:55:16,IT,False
+41,storage-from-896,Storage,East US,2024-07-20 15:25:55,Marketing,False
+42,storage-measure-758,Storage,Asia,2025-01-26 22:39:53,IT,False
+43,functions-employee-459,Functions,Europe,2024-07-29 15:52:11,Sales,False
+44,appservice-major-808,AppService,Asia,2024-08-28 11:22:48,Engineering,True
+45,database-so-93,Database,East US,2024-08-14 20:58:28,Sales,False
+46,storage-owner-71,Storage,West US,2024-12-25 17:57:53,Engineering,False
+47,functions-possible-101,Functions,East US,2024-12-09 16:08:09,IT,False
+48,database-wall-832,Database,Europe,2025-01-21 19:50:38,Engineering,True
+49,storage-national-371,Storage,Europe,2025-02-10 06:34:42,Marketing,True
+50,functions-attorney-835,Functions,East US,2024-08-01 22:59:47,Marketing,True
+51,appservice-economic-209,AppService,West US,2024-08-13 10:50:00,Sales,True
+52,storage-blue-962,Storage,Asia,2024-09-27 23:38:06,Finance,True
+53,database-model-991,Database,West US,2024-09-04 07:23:55,Finance,False
+54,vm-behavior-399,VM,East US,2024-08-28 12:17:21,Marketing,False
+55,appservice-military-199,AppService,East US,2024-10-05 00:20:34,Sales,False
+56,database-pull-702,Database,West US,2025-03-23 12:15:34,Engineering,False
+57,vm-above-244,VM,East US,2025-03-30 00:34:25,Engineering,True
+58,functions-central-514,Functions,East US,2025-04-06 15:13:05,IT,True
+59,database-model-12,Database,East US,2025-04-14 03:28:50,Finance,False
+60,appservice-another-267,AppService,West US,2025-02-17 22:21:51,Sales,False
+61,functions-per-602,Functions,East US,2024-06-12 21:25:18,Marketing,False
+62,database-factor-284,Database,Asia,2024-10-04 18:29:43,IT,False
+63,vm-traditional-417,VM,East US,2024-11-16 18:00:26,Marketing,True
+64,database-represent-767,Database,Europe,2025-01-01 07:41:43,Marketing,False
+65,appservice-even-545,AppService,East US,2024-09-16 22:58:06,IT,False
+66,database-future-734,Database,East US,2024-09-10 07:26:41,Engineering,True
+67,functions-drive-59,Functions,Europe,2024-12-07 08:06:50,Marketing,False
+68,functions-direction-809,Functions,Europe,2024-12-24 09:41:29,Finance,False
+69,appservice-seven-327,AppService,Europe,2025-04-06 11:57:46,Finance,True
+70,functions-site-259,Functions,Asia,2025-05-17 20:20:29,IT,True
+71,appservice-article-428,AppService,Europe,2024-08-27 15:02:57,Engineering,False
+72,appservice-stage-182,AppService,Europe,2024-11-15 10:42:05,Engineering,False
+73,vm-billion-858,VM,Europe,2024-06-21 20:31:49,Engineering,False
+74,storage-cause-30,Storage,West US,2025-05-10 11:07:42,Marketing,False
+75,vm-sport-20,VM,East US,2024-06-07 14:29:52,Sales,True
+76,appservice-surface-710,AppService,East US,2024-12-11 04:31:35,IT,False
+77,appservice-plant-121,AppService,West US,2024-07-16 22:34:49,Engineering,True
+78,vm-control-919,VM,Asia,2025-04-21 17:56:37,Marketing,True
+79,storage-shake-154,Storage,Europe,2025-05-05 20:24:04,Finance,False
+80,vm-figure-753,VM,Europe,2025-04-26 15:29:16,Marketing,False
+81,functions-group-463,Functions,East US,2025-04-23 17:26:23,Engineering,False
+82,functions-organization-844,Functions,West US,2024-06-30 12:56:22,Engineering,False
+83,storage-give-421,Storage,Europe,2024-09-01 14:59:16,Engineering,False
+84,storage-hear-679,Storage,West US,2024-06-16 03:51:17,Sales,True
+85,appservice-child-158,AppService,West US,2024-10-25 12:20:45,IT,True
+86,database-article-540,Database,Europe,2024-12-29 06:43:43,Marketing,False
+87,vm-consumer-532,VM,East US,2024-12-17 19:34:10,Engineering,False
+88,storage-direction-172,Storage,Asia,2024-07-01 12:23:37,Engineering,False
+89,vm-hundred-61,VM,Asia,2025-01-11 04:46:10,Finance,True
+90,storage-north-682,Storage,West US,2024-07-03 04:46:19,Finance,False
+91,functions-institution-261,Functions,Asia,2025-03-30 11:40:44,Sales,False
+92,functions-process-289,Functions,East US,2024-06-25 20:50:01,Finance,False
+93,functions-mother-995,Functions,Asia,2024-06-26 10:10:55,IT,False
+94,storage-work-59,Storage,West US,2024-10-16 09:18:48,Marketing,False
+95,database-ten-199,Database,West US,2025-01-20 06:09:44,Finance,False
+96,storage-change-199,Storage,East US,2025-01-12 06:32:40,Marketing,False
+97,storage-material-269,Storage,East US,2024-08-12 18:48:14,IT,True
+98,functions-thought-390,Functions,Asia,2024-11-30 16:04:51,Marketing,True
+99,functions-fill-703,Functions,East US,2025-03-14 08:54:38,IT,False
